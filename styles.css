@@ -1,0 +1,100 @@
+body{    
+}
+.container{
+    margin: 0 auto;
+    max-width: 100%;
+    background-color: lightgray;
+}
+/* Menu start */
+.top-menu{
+    max-width: 100%;
+    margin: 0 auto;
+    opacity: 0.6;
+}
+
+.top-menu .nav-item{
+    opacity: 1;
+}
+/* menu end */
+
+.content{
+    min-height: 700px;
+}
+
+/* Image slider start */
+.carousel-inner img{
+    height: 600px;
+}
+
+.slider-caption{
+    color: blue;
+    width: 500px;
+    text-align: center;
+    opacity: 0.5;
+    margin:auto;
+}
+/* Image slider end */
+
+/* card content start */
+.card-content{
+    width: 80%;
+    margin: 0 auto;
+}
+.card{
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+
+/* card content end */
+
+/* LoginForm Start */
+
+.login-card{
+    width: 30%;
+    margin: 200px auto;
+    border-radius: 5px;
+    vertical-align: auto;
+    background-color: white;
+    
+}
+
+.login-card-title{
+    text-align: center;
+    
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.loginBtn{
+    width: 100%;
+    align-items: center;
+}
+
+/* LoginForm Start */
+
+/*  Footer start */
+.footer{
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    color: white;
+
+}
+.copyright{
+    float: left;
+}
+
+.footer-info{
+    float: right;
+    text-align: right;
+}
+
+/*  Footer  end*/
+
+
